@@ -31,3 +31,16 @@ _i.e.:_
 
 - No `for` loops allowed.
 
+### Solution
+
+```js
+  const largestOfEach = (arr) => {
+    const result = [];
+    let i = 0;
+    while (result.length < arr.length) {
+      result.push(Math.max(...arr[i]));
+      i++;
+    }
+    return result;
+};
+```
