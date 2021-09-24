@@ -14,4 +14,4 @@ This is just a set of algorithm practices I did during General Assembly SEI cour
 
 ## Data Structure
 
-1. [Hash Table](https://github.com/yeana-dev/algorithm-collection/tree/main/data_structure/hash_table)
+1. [Hash Table](https://github.com/yeana-dev/algorithm-collection/blob/main/data_structure/hash_table.js)
