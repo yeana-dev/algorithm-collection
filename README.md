@@ -11,6 +11,7 @@ This is just a set of algorithm practices I did during General Assembly SEI cour
 5. [Add Binary Numbers](https://github.com/yeana-dev/algorithm-collection/tree/main/addBinaryNums)
 6. [Longest Word from String](https://github.com/yeana-dev/algorithm-collection/tree/main/longestWord)
 7. [Match Last Name](https://github.com/yeana-dev/algorithm-collection/tree/main/matchLastName)
+8. [Encrypt Phone Number](https://github.com/yeana-dev/algorithm-collection/tree/main/encrypt_phone_number)
 
 ## Data Structure
 
