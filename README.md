@@ -1,6 +1,6 @@
 # ✨ Algorithm Collection ✨
 
-This is just a set of algorithm practices I did during General Assembly SEI course. Feel free to leave your own solution!
+This is just a set of algorithm practices I did! Some of them are from HackerRank's solutions I came up with or from General Assembly's algo homework. Feel free to leave your own solution!
 
 ## Algorithms
 
