@@ -13,6 +13,7 @@ This is just a set of algorithm practices I did! Some of them are from HackerRan
 7. [Match Last Name](https://github.com/yeana-dev/algorithm-collection/tree/main/matchLastName)
 8. [Encrypt Phone Number](https://github.com/yeana-dev/algorithm-collection/tree/main/encrypt_phone_number)
 9. [Factorialize](https://github.com/yeana-dev/algorithm-collection/tree/main/factorialize)
+10. [Staircase](https://github.com/yeana-dev/algorithm-collection/tree/main/staircase)
 
 ## Data Structure
 
