@@ -19,3 +19,4 @@ This is just a set of algorithm practices I did! Some of them are from HackerRan
 
 1. [Hash Table](https://github.com/yeana-dev/algorithm-collection/blob/main/data_structure/hash_table.js)
 2. [Binary Search Tree](https://github.com/yeana-dev/algorithm-collection/blob/main/data_structure/binary_search_tree/binary_search_tree.js)
+3. [Singly Linked List](https://github.com/yeana-dev/algorithm)
